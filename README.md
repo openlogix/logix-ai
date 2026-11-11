@@ -3,6 +3,8 @@
   <img alt="Logix AI" src="https://www.openlogix.org/brand/readme/ai-light.svg" height="96">
 </picture>
 
+<br>
+
 [![License: MIT or Apache 2.0](https://img.shields.io/badge/License-MIT%20or%20Apache%202.0-blue)](LICENSE-MIT)
 
 AI agents that design and test FPGA logic and program the board.
