@@ -13,4 +13,6 @@ AI agents that design and test FPGA logic and program the board.
 
 Logix AI is part of [Open Logix](https://www.openlogix.org/): free, open source tools for FPGA design that install in one step, run on macOS, Windows and Linux, and need no separate toolchain.
 
+**Problems or ideas?** Report them in [Logix IDE's issues](https://github.com/openlogix/logix-ide/issues/new/choose): this repo takes no issues. Security problems: report them privately, as [SECURITY.md](https://github.com/openlogix/.github/blob/main/SECURITY.md) says.
+
 Licensed under [MIT](LICENSE-MIT) or the [Apache License 2.0](LICENSE-APACHE), at your option.
