@@ -9,9 +9,9 @@
 
 AI agents that design and test FPGA logic and program the board.
 
-**Coming Q4 2026.** This repository is a placeholder; the work hasn't started here yet. See the [Logix AI page](https://www.openlogix.org/ai/) for what's planned.
+**Coming later.** This repository is a placeholder; the work hasn't started here yet. See [Open Logix](https://www.openlogix.org/) for the tools you can use today.
 
-Logix AI is part of [Open Logix](https://www.openlogix.org/): free, open source tools for FPGA design that install in one step, run on macOS, Windows and Linux, and need no separate toolchain.
+Logix AI is part of [Open Logix](https://www.openlogix.org/): free, open source tools for FPGA design. Each is a single, easy install on macOS, Windows and Linux, self-contained, with the open source FPGA tools built in.
 
 **Problems or ideas?** Report them in [Logix IDE's issues](https://github.com/openlogix/logix-ide/issues/new/choose): this repo takes no issues. Security problems: report them privately, as [SECURITY.md](https://github.com/openlogix/.github/blob/main/SECURITY.md) says.
 
